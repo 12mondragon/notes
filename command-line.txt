@@ -1,0 +1,8 @@
+ls -- list the files or directories inside a directory.
+pwd -- check which directory you are in. print working directory.  
+touch ________-- make a new file 
+cd -- change directory (lets you move into a different directory)
+mkdir -- make a new directory inside your current directory.
+rm -- remove a file
+rm -rf -- remove a directory
+mv <thing to move> <location to move to>
